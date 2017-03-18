@@ -5,7 +5,7 @@
 
   <artifactId>genco</artifactId>
   <packaging>jar</packaging>
-  <version>1.4.1</version>
+  <version>1.4.2-SNAPSHOT</version>
 
   <name>Power TAC genco</name>
   <description>Models of simple wholesale power producers, and a wholesale buyer</description>
@@ -53,7 +53,7 @@
     <connection>scm:git:git//github.com/powertac/genco.git</connection>
     <developerConnection>scm:git:git@github.com:powertac/genco.git</developerConnection>
     <url>https://github.com/powertac/genco/</url>
-    <tag>genco-1.4.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
